@@ -5,9 +5,10 @@
 
 int main()
 {
+    int a = 100;
     std::cout << "Hello World!\n";
     std::cout << "222222" << std::endl;
-
+    return 0;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
